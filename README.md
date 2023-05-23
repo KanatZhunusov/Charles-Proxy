@@ -22,4 +22,7 @@
 3. Приложите скриншот любого перехваченного HTTPs-запроса с вашего мобильного устройства. В header user-agent должна быть информация о вашем устройстве.
 
 
+
+
+
 Мое решение: https://drive.google.com/drive/folders/1jqPtG_Q3sZaQU_iK45t-vcFv-FjBJ5xb
